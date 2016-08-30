@@ -1,0 +1,43 @@
+C:\Users\Dutin\Desktop\Facul\PROJETO\Projeto3\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEditor.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.DataContract.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.xml
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEditor.xml
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.dll
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEditor.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.xml
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEditor.xml
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\User\Dropbox\ALO COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.pdb
