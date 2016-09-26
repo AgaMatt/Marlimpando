@@ -44,7 +44,7 @@ public class MouseLook : MonoBehaviour
 	{			
 		if (GetComponent<Rigidbody>())
 		{
-			GetComponent<Rigidbody>().freezeRotation = true;
+			GetComponent<Rigidbody>().freezeRotation = false;
 		}
 		
 		originalRotation = transform.localRotation;
@@ -52,8 +52,8 @@ public class MouseLook : MonoBehaviour
  
 	void Update ()
 	{
-		if (axes == RotationAxes.MouseX)
-		{			
+		/*if (axes == RotationAxes.MouseX)
+		{*/			
 			rotAverageX = 0f;
  
 			rotationX += Input.GetAxis("Mouse X") * sensitivityX * Time.timeScale;
@@ -73,9 +73,9 @@ public class MouseLook : MonoBehaviour
  
 			Quaternion xQuaternion = Quaternion.AngleAxis (rotAverageX, Vector3.up);
 			transform.localRotation = originalRotation * xQuaternion;			
-		}
+			/*	}
 		else
-		{			
+		{	*/		
 			rotAverageY = 0f;
  
  			float invertFlag = 1f;
@@ -101,7 +101,7 @@ public class MouseLook : MonoBehaviour
  
 			Quaternion yQuaternion = Quaternion.AngleAxis (rotAverageY, Vector3.left);
 			transform.localRotation = originalRotation * yQuaternion;
-		}
+		/*	}*/
 	}
 	
 	public void SetSensitivity(float s)

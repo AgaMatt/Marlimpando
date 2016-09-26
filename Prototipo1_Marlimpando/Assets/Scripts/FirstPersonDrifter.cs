@@ -10,7 +10,7 @@ public class FirstPersonDrifter: MonoBehaviour
 {
     public float walkSpeed = 9.0f;
     public float runSpeed = 10.0f;
-	public float gravity = 0.0000001f;
+	public float gravity = 0f;
  
     // If true, diagonal speed (when strafing + moving forward or back) can't exceed normal move speed; otherwise it's about 1.4 times faster
     private bool limitDiagonalSpeed = true;
