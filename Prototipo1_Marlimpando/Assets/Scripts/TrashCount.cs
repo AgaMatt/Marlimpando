@@ -27,7 +27,7 @@ public class TrashCount : MonoBehaviour {
 		{
 			Destroy (trash5);
 		}
-		if(transform.childCount >12)
+		if(transform.childCount >11)
 		{
 			Destroy (trash6);
 		}

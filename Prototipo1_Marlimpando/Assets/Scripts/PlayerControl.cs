@@ -64,6 +64,12 @@ public class PlayerControl : MonoBehaviour
 		sprintFactor = sprintSpeed / runSpeed;
 	}
 
+	void Start()
+	{
+		fly = true;
+	}
+
+
 	bool IsGrounded() {
 		return Physics.Raycast(transform.position, -Vector3.up, distToGround + 0.1f);
 	}
@@ -71,8 +77,8 @@ public class PlayerControl : MonoBehaviour
 	void Update()
 	{
 		// fly
-		if(Input.GetButtonDown ("Fly"))
-			fly = !fly;
+		/*if(Input.GetButtonDown ("Fly"))
+			fly = !fly;*/
 		aim = Input.GetButton("Aim");
 		h = Input.GetAxis("Horizontal");
 		v = Input.GetAxis("Vertical");
