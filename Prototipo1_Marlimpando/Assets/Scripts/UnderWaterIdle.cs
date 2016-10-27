@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class RotateIdle : MonoBehaviour {
+public class UnderWaterIdle : MonoBehaviour {
 
 	Vector3 randomRot;
 	
