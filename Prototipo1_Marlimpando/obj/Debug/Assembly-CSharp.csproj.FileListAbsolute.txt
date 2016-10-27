@@ -62,3 +62,4 @@ C:\Users\User\Dropbox\COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin
 C:\Users\User\Dropbox\COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\User\Dropbox\COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\User\Dropbox\COMPONOT\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp.pdb
+D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
