@@ -10,7 +10,7 @@ public class CaptureTrash : MonoBehaviour {
 	{
 		//print ("ALAA");
 		if(coll.tag == "Player"){
-			//print ("AAAAAA");
+			print ("AAAAAA");
 			transform.position = player.transform.position - offset - trashOffset;
 			transform.SetParent (player.transform);
 			trashOffset = trashOffset + transform.position;
