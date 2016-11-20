@@ -2,9 +2,9 @@
 using System.Collections;
 
 public class CaptureTrash : MonoBehaviour {
-	public GameObject player;
+	/*public GameObject player;
 	public Vector3 offset;
-	Vector3 trashOffset;
+	Vector3 trashOffset;*/
 	TrashCount trashCount;
 
 	void Start()
@@ -23,7 +23,7 @@ public class CaptureTrash : MonoBehaviour {
 			trashOffset = trashOffset + transform.position;
 		}*/
 		if(coll.tag == "Player"){
-			print ("por que??");
+			//print ("por que??");
 			trashCount.trashAmount ++;
 			Destroy (gameObject);
 			//print (trashCount.trashAmount);

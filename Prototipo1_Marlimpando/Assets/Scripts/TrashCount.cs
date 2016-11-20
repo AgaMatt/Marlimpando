@@ -42,8 +42,8 @@ public class TrashCount : MonoBehaviour {
 		}
 
 	*/
-		int rightAmount = trashAmount / 2;
-		trashText.text = ": " + rightAmount.ToString ();
+		//int rightAmount = trashAmount / 2;
+		trashText.text = ": " + trashAmount.ToString ();
 	
 	}
 }
