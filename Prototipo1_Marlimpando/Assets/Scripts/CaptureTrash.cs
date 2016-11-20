@@ -10,7 +10,7 @@ public class CaptureTrash : MonoBehaviour {
 	void Start()
 	{
 		trashCount = FindObjectOfType<TrashCount> ();
-		print (trashCount.name);
+		//print (trashCount.name);
 	}
 
 	void OnTriggerEnter(Collider coll)
@@ -23,7 +23,8 @@ public class CaptureTrash : MonoBehaviour {
 			trashOffset = trashOffset + transform.position;
 		}*/
 		if(coll.tag == "Player"){
-			trashCount.trashAmount++;
+			print ("por que??");
+			trashCount.trashAmount ++;
 			Destroy (gameObject);
 			//print (trashCount.trashAmount);
 		}

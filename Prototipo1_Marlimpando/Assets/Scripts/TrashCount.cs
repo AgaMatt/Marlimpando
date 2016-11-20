@@ -1,14 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class TrashCount : MonoBehaviour {
 
 	//public GameObject trash1, trash2, trash3, trash4, trash5, trash6;
 	public int trashAmount;
+	Text trashText;
 
 
 	void Start()
 	{
+		trashText = FindObjectOfType<Text> ();
 		trashAmount = 0;
 	}
 	void Update ()
@@ -39,7 +42,8 @@ public class TrashCount : MonoBehaviour {
 		}
 
 	*/
-
+		int rightAmount = trashAmount / 2;
+		trashText.text = ": " + rightAmount.ToString ();
 	
 	}
 }
