@@ -3,11 +3,17 @@ using System.Collections;
 
 public class TrashCount : MonoBehaviour {
 
-	public GameObject trash1, trash2, trash3, trash4, trash5, trash6;
+	//public GameObject trash1, trash2, trash3, trash4, trash5, trash6;
+	public int trashAmount;
 
-	void Update()
+
+	void Start()
 	{
-		if(transform.childCount > 2)
+		trashAmount = 0;
+	}
+	void Update ()
+	{
+/*		if(transform.childCount > 2)
 		{
 			Destroy (trash1);
 		}
@@ -32,5 +38,8 @@ public class TrashCount : MonoBehaviour {
 			Destroy (trash6);
 		}
 
+	*/
+
+	
 	}
 }

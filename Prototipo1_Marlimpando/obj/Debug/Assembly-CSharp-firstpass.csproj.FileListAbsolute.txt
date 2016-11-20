@@ -19,3 +19,24 @@ D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando
 D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp-firstpass.dll
 D:\Program Files (x86)\Documentos\Facul\Proj3\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEditor.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.xml
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEditor.xml
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\User\Desktop\Documentos\Facul\Proj3\Marlimpando\Marlimpando\Prototipo1_Marlimpando\obj\Debug\Assembly-CSharp-firstpass.pdb
