@@ -15,8 +15,18 @@ public class GrowKelp : MonoBehaviour {
 	void Update () {
 		if(isGrowing){
 			gameObject.transform.localScale += growing;
-			if (gameObject.transform.localScale.x > 13)
-				isGrowing = false;
+			/*if (gameObject.transform.localScale.x > 13)
+				isGrowing = false;*/
+	}
+
+
+	}
+
+	void OnTriggerEnter(Collider cola)
+	{
+		if(cola.tag =="Barrier"){
+
+			isGrowing = false;
 		}
 	}
 

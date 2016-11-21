@@ -6,9 +6,11 @@ public class CaptureTrash : MonoBehaviour {
 	public Vector3 offset;
 	Vector3 trashOffset;*/
 	TrashCount trashCount;
-
+	SpawnKelps spawnKelp;
+	public bool canDestroy;
 	void Start()
 	{
+		spawnKelp = GetComponent<SpawnKelps> ();
 		trashCount = FindObjectOfType<TrashCount> ();
 		//print (trashCount.name);
 	}
@@ -24,9 +26,13 @@ public class CaptureTrash : MonoBehaviour {
 		}*/
 		if(coll.tag == "Player"){
 			//print ("por que??");
+			spawnKelp.SpawningKelp ();
 			trashCount.trashAmount ++;
-			Destroy (gameObject);
-			//print (trashCount.trashAmount);
+
+			if (canDestroy) {
+				Destroy (gameObject);
+			}
+				//print (trashCount.trashAmount);
 		}
 
 	}
