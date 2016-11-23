@@ -8,8 +8,10 @@ public class CaptureTrash : MonoBehaviour {
 	TrashCount trashCount;
 	SpawnKelps spawnKelp;
 	public bool canDestroy;
+	LevelBarrier numberOfTrashes;
 	void Start()
 	{
+		numberOfTrashes = FindObjectOfType<LevelBarrier> ();
 		spawnKelp = GetComponent<SpawnKelps> ();
 		trashCount = FindObjectOfType<TrashCount> ();
 		//print (trashCount.name);
@@ -27,6 +29,12 @@ public class CaptureTrash : MonoBehaviour {
 		if(coll.tag == "Player"){
 			//print ("por que??");
 			spawnKelp.SpawningKelp ();
+			var tagTrash = gameObject.tag;
+			if(tagTrash == "Trash1"){
+				numberOfTrashes.numberOfTrashes1--;
+			}else if(tagTrash == "Trash2"){
+				numberOfTrashes.numberOfTrashes2--;
+			}
 			trashCount.trashAmount ++;
 
 			if (canDestroy) {
