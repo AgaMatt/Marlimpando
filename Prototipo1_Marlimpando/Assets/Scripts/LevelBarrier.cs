@@ -3,17 +3,21 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class LevelBarrier : MonoBehaviour {
-	public GameObject[] level1Trash;
+	public GameObject[] level1Trash, level2Trash;
 	public int numberOfTrashes1, numberOfTrashes2;
 	GameObject barrier;
-	bool opened;
+	public bool opened;
 	// Use this for initialization
 	void Start () {
 		
 		barrier = GameObject.FindGameObjectWithTag ("LevelBarrier");
 		level1Trash = GameObject.FindGameObjectsWithTag ("Trash1");
+		level2Trash = GameObject.FindGameObjectsWithTag ("Trash2");
 		foreach(GameObject g in level1Trash){
 			numberOfTrashes1++;
+		}
+		foreach(GameObject g in level2Trash){
+			numberOfTrashes2++;
 		}
 	}
 	

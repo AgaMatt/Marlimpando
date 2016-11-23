@@ -35,7 +35,6 @@ public class CaptureTrash : MonoBehaviour {
 			}else if(tagTrash == "Trash2"){
 				numberOfTrashes.numberOfTrashes2--;
 			}
-			trashCount.trashAmount ++;
 
 			if (canDestroy) {
 				Destroy (gameObject);

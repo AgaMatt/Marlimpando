@@ -5,17 +5,29 @@ using UnityEngine.UI;
 public class TrashCount : MonoBehaviour {
 
 	//public GameObject trash1, trash2, trash3, trash4, trash5, trash6;
-	public int trashAmount;
+	int trashAmount;
 	Text trashText;
+	LevelBarrier levelCount;
+	int remaining_lvl_1, remaining_lvl_2;
 
 
 	void Start()
 	{
-		trashText = FindObjectOfType<Text> ();
-		trashAmount = 0;
+		
+		levelCount = FindObjectOfType<LevelBarrier> ();
+
+		trashText = GetComponent<Text> ();
+
 	}
 	void Update ()
 	{
+		
+		remaining_lvl_1 = levelCount.numberOfTrashes1;
+		remaining_lvl_2 = levelCount.numberOfTrashes2;
+		if (levelCount.opened){
+			trashAmount = remaining_lvl_2;
+		}else
+			trashAmount = remaining_lvl_1;
 /*		if(transform.childCount > 2)
 		{
 			Destroy (trash1);
@@ -43,7 +55,7 @@ public class TrashCount : MonoBehaviour {
 
 	*/
 		//int rightAmount = trashAmount / 2;
-		trashText.text = ": " + trashAmount.ToString ();
+		trashText.text = "Restando: " + trashAmount.ToString ();
 	
 	}
 }
