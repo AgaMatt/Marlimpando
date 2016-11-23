@@ -24,9 +24,9 @@ public class LevelBarrier : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
 	{
-		print (numberOfTrashes1);
+//		print (numberOfTrashes1);
 		if (numberOfTrashes1 == 27) {
-			print ("OK");
+			//print ("OK");
 
 			if (opened == false) {
 				OpenTheBarrier ();

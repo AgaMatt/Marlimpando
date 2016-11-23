@@ -17,7 +17,7 @@ public class ClosingLevelBarrier : MonoBehaviour {
 	}
 	void OnTriggerEnter (Collider col)
 	{
-		print ("TRIGEro");
+		//print ("TRIGEro");
 		if(col.tag == "Player"){
 			levelBarrier.CloseTheBarrier ();
 			RenderSettings.fogColor = level2_Color;
