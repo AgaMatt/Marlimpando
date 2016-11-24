@@ -1,0 +1,203 @@
+[33mcommit d1c6bc4ad4c16d5b71ca74fb96655d0635c77164[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Nov 23 19:19:27 2016 -0200
+
+    level 2 design Almost Ready
+
+[33mcommit 9ccbbf93b9e3f53890bfff07126770e114a6fa6f[m
+Author: Gabriel Balarin <balaringabriel@gmail.com>
+Date:   Wed Nov 23 17:49:44 2016 -0200
+
+    Background Sounds implementeds in Menu, Credits and Gameplay
+
+[33mcommit 24d8d4d78fa7349bc12e3725f127d9a809c6cf61[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Nov 23 17:09:34 2016 -0200
+
+    Close and open level barrier OK
+
+[33mcommit 26a7a37ccf2d89f9ca9187d7534d42e3eb44fe31[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Mon Nov 21 18:04:07 2016 -0200
+
+    Level 2 and Level barrier ready
+
+[33mcommit 46761db745e53240d7de500648ba3f2dbd9e1a1e[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Mon Nov 21 16:00:38 2016 -0200
+
+    Kelp Growth scripted correcty, fish, performance improvements
+    
+    Kelp growth is now correctly scripted. Added fish with animation,
+    designing the level 2
+
+[33mcommit fea89da9a83fd51fbb1add7c26636c9c46be5d88[m
+Author: Gabriel Balarin <balaringabriel@gmail.com>
+Date:   Sun Nov 20 20:22:27 2016 -0200
+
+    Ajust in Credits and MainMenu scenes
+
+[33mcommit 4909869a44975921c43ba11683f849b4d7858daa[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Sun Nov 20 16:13:44 2016 -0200
+
+    Fixed Kelp growth, fixed trash count, Level 2 design started
+
+[33mcommit c02b5f63cf9834bdcb1c9ec261a64a8de93d315f[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Sun Nov 20 13:28:39 2016 -0200
+
+    Fixed rotations of player, changes particles, Kelp growth
+    
+    Fixed the random rotation of player when it collides with other things.
+    More improvements on particles, and did the animation and grow of Kelp.
+    Did the trash count as well, but for some reason it's counting 2 trashes
+    when it gets. Im using trigger enter to count the trash. For now im just
+    getting the half of the total.
+
+[33mcommit 293e30d9633277035040445159e641d321ebe3ac[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Sun Nov 20 09:11:36 2016 -0200
+
+    Added the new models, changes particle sistem
+    
+    Added the kelp and grass models, as well as the respective prefabs,
+    improved the particle sistem too.
+
+[33mcommit 2949b5b3b66264482105ea8cb6dbd9cfff3ae431[m
+Author: balaringabriel <balaringabriel@gmail.com>
+Date:   Thu Nov 17 21:00:14 2016 -0200
+
+    MainMenu and Credits Scenes
+
+[33mcommit fdfd061812525c9886e8ead6de50c83af74b303d[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Nov 17 20:45:45 2016 -0200
+
+    Particle System Started
+
+[33mcommit 1157c682f790679873a3cb7a5ed55966536f5455[m
+Author: balaringabriel <balaringabriel@gmail.com>
+Date:   Wed Nov 16 22:18:50 2016 -0200
+
+    Main Menu Start
+
+[33mcommit b8573c0b75385b2eb7b995baf1d8541ca498a575[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Nov 16 09:37:09 2016 -0200
+
+    Made some changes (Scene CenaDasCoisaTrump): Skybox, Trash models, Trash Materials, etc
+    
+    Made some changes: Skybox, Trash models, Trash Materials, Skybox Shader,
+    Createad the Level2_Terrain, Changed some settings on the water
+
+[33mcommit 7e4448e8d718b71bfb5edbd3ebe343c56ac28691[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Nov 10 21:39:30 2016 -0200
+
+    Grass and coca-cola models (in other scene)
+
+[33mcommit ae8902e41af9b48fb8d555d3625710db3b8bb345[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Oct 27 18:03:42 2016 -0200
+
+    Animation Idle Trash (and some other changes)
+
+[33mcommit 641897b8afb48bba2b7b6e0c1f00a7d747949462[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Oct 27 06:56:54 2016 -0200
+
+    Color Correction  and Global Fog Scripts added
+    
+    Did some changes in global and color Correction(Saturation)
+
+[33mcommit 8b183f3b638977a8f6f182ed614f8fc539bcb902[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Oct 27 06:36:12 2016 -0200
+
+    Dont know what i actually did, but its good.
+    
+    I added some Standard Assets, like enviroment and effects, did some
+    changes to water4advanced.
+
+[33mcommit 1b40585cd0ec785211f8dc47cf25ce7d92f0beca[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Oct 26 22:28:41 2016 -0200
+
+    Changed the camera position and the range
+
+[33mcommit b36d884cf843366b87f89b5a7fd2761da10ce91a[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Oct 19 22:08:21 2016 -0200
+
+    Better lighting
+
+[33mcommit 834611dec12da2f292fea2418bc3bfcec6951e20[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Sep 28 19:27:36 2016 -0300
+
+    Player, can and bottle new Models
+
+[33mcommit 45702a646be40c92fc08889b20d082e4587ce4c9[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Sep 28 15:38:25 2016 -0300
+
+    Swiming Implemented_ OK
+
+[33mcommit 913191f22a4d78d218ebb8565f88c96a083cd3ba[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Mon Sep 26 14:45:04 2016 -0300
+
+    PlayerControl Almost OK
+    
+    Got a new 3 person script, with fly mode and a good camera control. Need
+    to work better on that though.
+
+[33mcommit 171d327e90a723152a61cb5f7c87512e1aa2ebf3[m
+Merge: 28417e3 715876c
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Sep 15 16:46:19 2016 -0300
+
+    Trying to merge(Git problems)
+
+[33mcommit 28417e37d1b07bfc2648c41516e6163e6d74f524[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Thu Sep 15 16:44:10 2016 -0300
+
+    Just checking some bugs
+
+[33mcommit 715876c0da5eabd0bd7d455a98609fa7e89bdf62[m
+Author: balaringabriel <balaringabriel@gmail.com>
+Date:   Mon Sep 12 16:58:57 2016 -0300
+
+    After greenlight / Prototipe 1
+
+[33mcommit a7350b998643ca4b371a5dc70136053bcaf9b42b[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Aug 31 16:40:30 2016 -0300
+
+    Cloud trash being destroyed when you get more trash (prototype)
+
+[33mcommit 32e4ccb994a80fb64b52e420245b1bf11d3d8757[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Wed Aug 31 16:25:39 2016 -0300
+
+    Getting trash and idle rotation OK
+
+[33mcommit 90d5854e16d078e701649c46a093ff8430fee753[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Tue Aug 30 20:53:23 2016 -0300
+
+    Movimentação_Ok
+
+[33mcommit a1f7ee2a9e866c0eb895ae2a9c3be689461533e9[m
+Author: Gabriel Balarin <balaringabriel@gmail.com>
+Date:   Tue Aug 30 16:10:01 2016 -0300
+
+    Add files via upload
+
+[33mcommit 4f68f16148f13bbc572218173d6748e012b23789[m
+Author: AgaMatt <heitormattosinho@gmail.com>
+Date:   Tue Aug 30 15:56:59 2016 -0300
+
+    Initial commit
