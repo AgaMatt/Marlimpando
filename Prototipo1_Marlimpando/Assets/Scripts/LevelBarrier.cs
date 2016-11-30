@@ -18,6 +18,7 @@ public class LevelBarrier : MonoBehaviour {
 		}
 		foreach(GameObject g in level2Trash){
 			numberOfTrashes2++;
+		//	print ("MEU OVO");
 		}
 	}
 	
@@ -25,7 +26,7 @@ public class LevelBarrier : MonoBehaviour {
 	void Update ()
 	{
 //		print (numberOfTrashes1);
-		if (numberOfTrashes1 <= 27) {
+		if (numberOfTrashes1 <= 0) {
 			//print ("OK");
 
 			if (opened == false) {
