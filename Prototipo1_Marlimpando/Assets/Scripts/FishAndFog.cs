@@ -73,8 +73,13 @@ public class FishAndFog : MonoBehaviour {
 			lightDirectional.GetComponent<Light> ().intensity = 0.005f;
 			var ad = audioManager.GetComponent<AudioSource> ();
 			ad.clip = winAudio;
-			ad.Play ();
-			ad.volume = 0.28f;
+			if (ad.isPlaying) {
+				ad.volume = 0.28f;
+			} else {
+				ad.Play ();
+				ad.volume = 0.28f;
+			}
+
 		}
 
 
