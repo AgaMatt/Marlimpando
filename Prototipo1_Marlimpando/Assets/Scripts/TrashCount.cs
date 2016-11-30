@@ -28,6 +28,9 @@ public class TrashCount : MonoBehaviour {
 			trashAmount = remaining_lvl_2;
 		}else
 			trashAmount = remaining_lvl_1;
+		if(trashAmount<0){
+			trashAmount = 0;
+		}
 /*		if(transform.childCount > 2)
 		{
 			Destroy (trash1);
