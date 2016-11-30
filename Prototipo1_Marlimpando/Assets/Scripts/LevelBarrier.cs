@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class LevelBarrier : MonoBehaviour {
 	public GameObject[] level1Trash, level2Trash;
-	public int numberOfTrashes1, numberOfTrashes2;
+	public float numberOfTrashes1, numberOfTrashes2;
 	GameObject barrier;
 	public bool opened;
 	// Use this for initialization
@@ -25,7 +25,7 @@ public class LevelBarrier : MonoBehaviour {
 	void Update ()
 	{
 //		print (numberOfTrashes1);
-		if (numberOfTrashes1 == 27) {
+		if (numberOfTrashes1 <= 27) {
 			//print ("OK");
 
 			if (opened == false) {
@@ -33,11 +33,16 @@ public class LevelBarrier : MonoBehaviour {
 				opened = true;
 				}
 			}
-
+		if(numberOfTrashes2 <=0){
+			OpenTheBarrier ();
 		}
+
+
+	}
 	public void OpenTheBarrier()
 	{
 		barrier.transform.localScale = new Vector3 (30, 21.4f, 30);
+
 	}
 		
 	public void CloseTheBarrier()

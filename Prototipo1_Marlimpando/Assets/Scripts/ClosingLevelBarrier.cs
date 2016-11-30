@@ -21,6 +21,7 @@ public class ClosingLevelBarrier : MonoBehaviour {
 		if(col.tag == "Player"){
 			levelBarrier.CloseTheBarrier ();
 			RenderSettings.fogColor = level2_Color;
+			Destroy (gameObject);
 		}
 	}
 }

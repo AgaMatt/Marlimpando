@@ -5,10 +5,10 @@ using UnityEngine.UI;
 public class TrashCount : MonoBehaviour {
 
 	//public GameObject trash1, trash2, trash3, trash4, trash5, trash6;
-	int trashAmount;
+	float trashAmount;
 	Text trashText;
 	LevelBarrier levelCount;
-	int remaining_lvl_1, remaining_lvl_2;
+	float remaining_lvl_1, remaining_lvl_2;
 
 
 	void Start()
