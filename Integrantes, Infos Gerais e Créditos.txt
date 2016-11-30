@@ -1,0 +1,19 @@
+Integrantes
+Heitor Mattosinho RA:15671514
+Gabriel Balarin RA:15671639
+
+Infos Gerais
+
+Link Trello: https://trello.com/b/75sqQlaQ
+Link GitHub: https://github.com/AgaMatt/Marlimpando/
+
+
+Créditos 
+
+Disco Medusae Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Immersed Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
